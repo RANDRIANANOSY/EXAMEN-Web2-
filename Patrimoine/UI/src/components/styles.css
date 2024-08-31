@@ -1,0 +1,40 @@
+/* styles.css */
+.table-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+.patrimoine{
+  border: salmon ;
+  background-color: cornflowerblue;
+  border-radius: 5%;
+ 
+}
+.Liste3{
+  background-color: rgb(75, 54, 54);
+}
+.Liste{
+  background-color: aquamarine;
+}
+.patrimoine1{
+ 
+  background-color: rgb(6, 58, 153);
+  
+}
+
+
+.table-wrapper {
+  width: 100%;
+  max-width: 1200px;
+}
+
+.btn-action {
+  margin-right: 5px;
+}
+.list-possession-container {
+  background-color: rgb(70, 141, 141);
+  padding: 20px;
+  min-height: 100vh;
+}
